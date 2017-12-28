@@ -36,7 +36,8 @@ Capture nem wallet QR code and Print it.
 
 ### プリンタシールドについて
 
-ナダ電子 プリンタシールド AS-289R2はシリアルでコマンドを送るだけでいろいろな印刷ができる便利なプリンタです。ビットマップ出力部分はナダ電子の[DitherCamera](https://github.com/NADA-ELECTRONICS/DitherCamera)を参考にしました。
+ナダ電子 プリンタシールド AS-289R2はシリアルでコマンドを送るだけでいろいろな印刷ができる便利なプリンタです。ビットマップ出力部分はナダ電子の[DitherCamera](https://github.com/NADA-ELECTRONICS/DitherCamera)を参考にしました。  
+今回38400bpsで通信しているので、プリンタシールドの設定変更(はんだ付けによるジャンパ設定)が必要です。
 
 ### カメラについて
 
