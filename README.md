@@ -17,7 +17,7 @@ Capture nem wallet QR code and Print it.
     - zbarlight (QRコード認識)
     - serial (シリアル通信)
     - WiringPi (GPIO制御など)
-  - fswebcam (webカメラキャプチャ)
+  - fswebcam (webカメラキャプチャ)
 
 ### 準備
 
