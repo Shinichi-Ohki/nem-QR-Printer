@@ -7,10 +7,10 @@ Capture nem wallet QR code and Print it.
 ### 必要な物
 
 - ハードウェア
-  - Raspberry Pi 3 (たぶん2でも可)
-  - ナダ電子 プリンタシールド AS-289R2
+  - [Raspberry Pi 3](https://www.switch-science.com/catalog/3050/) (たぶん2でも可)
+  - ナダ電子 プリンタシールド [AS-289R2](https://www.switch-science.com/catalog/2553/)
   - LED付き押しボタン(ダイソー)
-  - webカメラ (今回は [BSWHD06M](https://amazon.jp/o/ASIN/B00GZAF89W/opencollect-22) を使いました)
+  - webカメラ (今回は [iBUFFALO BSWHD06M](https://amazon.jp/o/ASIN/B00GZAF89W/opencollect-22) を使いました)
 - ソフトウェア
   - Python3パッケージ
     - qrcode (QRコード生成)
