@@ -53,3 +53,8 @@ LED付き押しボタンとして、100円ショップダイソーで売って�
 
 ### ライセンス
 MIT
+
+### Donation
+
+nem: NDQMFS-U7UMJX-E7N7MI-EOKJQY-YA7Q5Q-MT4CGJ-6NOB
+nekonium: 0xf25d84ae5430ad5107801af46f2408dd6b0b43b0
