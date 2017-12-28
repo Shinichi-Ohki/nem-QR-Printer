@@ -44,7 +44,7 @@ webカメラとしてfswebcamで画像が撮れる物なら何でもいいはず
 
 ### LEDボタンについて
 LED付き押しボタンとして、100円ショップダイソーで売っていたLEDライトを使いました。
-回路は[１００均ライト改造報告Ｎｏ.２３【2017/5/29駆動回路：LEDﾐﾆﾀｯﾁﾗｲﾄ蒼】](http://yamane-factory.cocolog-nifty.com/yamane/2017/03/2017324led-0eb5.html)を参考にしました。スイッチとマイコンの間の配線をカットして、それぞれの線を引き出してRaspberry PiのGPIOに接続します。また、電源もRaspberry Piの3.3Vから供給しています。もちろんGNDも接続してください。
+回路は[１００均ライト改造報告Ｎｏ.２３【2017/5/29駆動回路：LEDﾐﾆﾀｯﾁﾗｲﾄ蒼】](http://yamane-factory.cocolog-nifty.com/yamane/2017/03/2017324led-0eb5.html)を参考にしました。スイッチとマイコンの間の配線をカットして、それぞれの線を引き出してRaspberry PiのGPIOに接続します。また、電源もRaspberry Piの3.3Vから供給しています。もちろんGNDも接続してください。  
 マイコンへの配線をGPIO27、ボタンからの配線をGPIO17につないでください。Raspberry Pi内でプルアップしているのでボタンの配線にプルアップ抵抗を付ける必要はありません。
 
 ### 既知のバグ
@@ -56,5 +56,5 @@ MIT
 
 ### Donation
 
-nem: NDQMFS-U7UMJX-E7N7MI-EOKJQY-YA7Q5Q-MT4CGJ-6NOB
+nem: NDQMFS-U7UMJX-E7N7MI-EOKJQY-YA7Q5Q-MT4CGJ-6NOB  
 nekonium: 0xf25d84ae5430ad5107801af46f2408dd6b0b43b0
